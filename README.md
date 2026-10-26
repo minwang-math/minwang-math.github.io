@@ -49,6 +49,6 @@ bundle exec jekyll serve
 
 ## GitHub Pages
 
-提交并推送至仓库中配置的 Pages 来源分支后，由 GitHub Pages 构建发布。预期地址为 https://minwang-uh-math.github.io/ 。本地修改本身不会更新线上站点。
+提交并推送至仓库中配置的 Pages 来源分支后，由 GitHub Pages 构建发布。预期地址为 https://minwang-math.github.io/ 。本地修改本身不会更新线上站点。
 
 原始 Academic Pages 模板及许可证保留。模板示例文章、论文、教学和演讲集合已从构建中排除；未使用的示例页面设为不发布。
